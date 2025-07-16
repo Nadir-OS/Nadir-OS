@@ -16,3 +16,13 @@ Click the **Fork** button on the top right of the repo page.
 ```bash
 git clone https://github.com/your-username/Nadir-OS.git
 cd Nadir-OS
+
+
+---
+
+## 📌 How to contribute
+
+**1. Fork the repository**
+
+```bash
+Click the **Fork** button on the top right of the repo page.
