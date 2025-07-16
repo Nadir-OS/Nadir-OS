@@ -17,9 +17,12 @@ Click the **Fork** button on the top right of the repo page.
 git clone https://github.com/your-username/Nadir-OS.git
 cd Nadir-OS
 
----
+**1. Fork the repository**
 
-**3. Create a new branch**
+Click the **Fork** button on the top right of the repo page.
+
+**2. Clone your fork**
 
 ```bash
-git checkout -b feature/my-new-feature
+git clone https://github.com/your-username/Nadir-OS.git
+cd Nadir-O
